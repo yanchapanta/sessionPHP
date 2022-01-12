@@ -12,6 +12,24 @@
 </head>
 
 <body>
+    <!-- *********************
+    galery image movie
+    *********************-->
+    <div class="gallery-image-movie">
+        <div class="gallery-image-container">
+            <div class="gallery-image-grid">
+                <div class="gallery-image-caja" style="--gImgCaja: url('./assets/gallery-movie/img-1.svg');"></div>
+                <div class="gallery-image-caja" style="--gImgCaja: url('./assets/gallery-movie/img-2.svg');"></div>
+                <div class="gallery-image-caja" style="--gImgCaja: url('./assets/gallery-movie/img-3.svg');"></div>
+                <div class="gallery-image-caja" style="--gImgCaja: url('./assets/gallery-movie/img-4.svg');"></div>
+                <div class="gallery-image-caja" style="--gImgCaja: url('./assets/gallery-movie/img-5.svg');"></div>
+                <div class="gallery-image-caja" style="--gImgCaja: url('./assets/gallery-movie/img-6.svg');"></div>
+                <div class="gallery-image-caja" style="--gImgCaja: url('./assets/gallery-movie/img-7.svg');"></div>
+                <div class="gallery-image-caja" style="--gImgCaja: url('./assets/gallery-movie/img-8.svg');"></div>
+            </div>
+        </div>
+    </div>
+
     <!-- 
             lower-menu
          -->
