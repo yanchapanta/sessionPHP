@@ -1,0 +1,10 @@
+.container {
+	height: 20rem;
+}
+.img {
+	max-width: 100%;
+	height: auto;
+}
+.imagenes {
+	width: 500px;
+}
