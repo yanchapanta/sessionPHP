@@ -8,3 +8,14 @@
 	"remotePath": "/",
 	"uploadOnSave": true
 }
+{
+	"name": "yanchapantaweb",
+	"host": "files.000webhost.com",
+	"protocol": "ftp",
+	"port": 21,
+	"username": "yanchapanta",
+	"secure": true,
+	"password": "marcoyanchapanta",
+	"remotePath": "/",
+	"uploadOnSave": true
+}
